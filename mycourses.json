@@ -1,6 +1,6 @@
 {
     "student": "Eric Rabiner",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "timestamp": "2019-09-14T11:11:11+0000",
     "count": 5,
     "data": [
@@ -28,6 +28,56 @@
             "id": 4,
             "courseCode": "MAP523",
             "courseName": "Mobile App Development - iOS"
+        },
+        {
+            "id": 5,
+            "courseCode": "DBS301",
+            "courseName": "Database Design II and SQL Using Oracle"
+        },
+        {
+            "id": 6,
+            "courseCode": "OOP345",
+            "courseName": "Object-Oriented Software Development Using C++"
+        },
+        {
+            "id": 7,
+            "courseCode": "SYS366",
+            "courseName": "Requirements Gathering Using OO Models"
+        },
+        {
+            "id": 8,
+            "courseCode": "WEB322",
+            "courseName": "Web Programming Tools and Framework"
+        },
+        {
+            "id": 9,
+            "courseCode": "EAC411",
+            "courseName": "Language of the Media"
+        },
+        {
+            "id": 10,
+            "courseCode": "DBS201",
+            "courseName": "Introduction to Database Design and SQL"
+        },
+        {
+            "id": 11,
+            "courseCode": "DCF255",
+            "courseName": "Data Communications Fundamentals"
+        },
+        {
+            "id": 12,
+            "courseCode": "OOP244",
+            "courseName": "Introduction to Object Oriented Programming"
+        },
+        {
+            "id": 13,
+            "courseCode": "WEB222",
+            "courseName": "Web Programming Principles"
+        },
+        {
+            "id": 14,
+            "courseCode": "HIS554",
+            "courseName": "Guns and Peasants in East Asia"
         }
     ]
 }
