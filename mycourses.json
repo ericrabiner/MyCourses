@@ -1,0 +1,33 @@
+{
+    "student": "Eric Rabiner",
+    "version": "1.0.0",
+    "timestamp": "2019-09-14T11:11:11+0000",
+    "count": 5,
+    "data": [
+        {
+            "id": 0,
+            "courseCode": "WEB422",
+            "courseName": "Web Programming for Apps and Services"
+        },
+        {
+            "id": 1,
+            "courseCode": "JAC444",
+            "courseName": "Introduction to Java for C++ Programmers"
+        },
+        {
+            "id": 2,
+            "courseCode": "BCI433",
+            "courseName": "IBM Business Computing"
+        },
+        {
+            "id": 3,
+            "courseCode": "EAC594",
+            "courseName": "Business Communication for the Digital Workplace"
+        },
+        {
+            "id": 4,
+            "courseCode": "MAP523",
+            "courseName": "Mobile App Development - iOS"
+        }
+    ]
+}
